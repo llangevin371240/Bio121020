@@ -1,0 +1,28 @@
+body {
+    background-color: firebrick;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-rendering: optimizeLegibility;
+}
+
+#p1 {
+    font-weight: bold;
+}
+
+#im1 {
+    height: 200px;
+    width: 200px;
+    border: solid black 2px;
+    border-radius: 100px;
+}
+
+h2 {
+    color: lightblue;
+}
+
+ul:hover {
+    cursor: pointer;
+}
+
+a:hover {
+    color: white;
+}
